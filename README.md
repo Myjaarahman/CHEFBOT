@@ -1,16 +1,45 @@
-# chefbot_app
+# ChefBot 🍳
+AI-Based Smart Recipe Planner
 
-A new Flutter project.
+## 📌 Project Overview
+ChefBot is a Flutter-based mobile application developed as a Final Year Project (FYP).
+The system uses machine learning and image recognition technologies to detect ingredients
+in user-captured images, processes them with a trained YOLOv8 model, and generates personalized 
+recipes using Google APIs.
 
-## Getting Started
+## 🎯 Objectives
+- Detect ingredients from images using deep learning
+- Recommend recipes based on available ingredients
+- Provide a personalized user experience
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+- Flutter (Frontend)
+- Python (Machine Learning)
+- TensorFlow / YOLOv8
+- Google APIs
+- Supabase
 
-A few resources to get you started if this is your first Flutter project:
+## ⚙️ Key Features
+- Ingredient detection via camera or image upload
+- Editable detected ingredients
+- Recipe recommendation system
+- Personalized homepage
+- Search bar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots
+![Homepage](screenshots/personalized homepage.jpeg)
+![SearchBar](screenshots/search feature.jpeg)
+![Detection](screenshots/scanned ingredients.jpeg)
+![Recommendation](screenshots/recipes suggestion.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+1. Clone this repository
+2. Install Flutter dependencies
+3. Run on emulator or physical device
+
+## 📚 Project Type
+Final Year Project (Academic)
+
+## 👨‍💻 Developers
+Afikah Azman, 
+Mirza Rahman# CHEFBOT
