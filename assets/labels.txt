@@ -1,0 +1,93 @@
+almond
+apple
+asparagus
+avocado
+banana
+basil
+bean sprouts
+beef
+beetroot
+bell pepper
+bitter gourd
+black pepper
+blueberry
+bottle gourd
+bread
+broccoli
+butter
+cabbage
+cardamom seed
+carrot
+cauliflower
+celery
+chicken
+chilli pepper
+cinnamon
+cloves
+coriander
+coriander seed
+corn
+cucumber
+cumin seed
+cut_mackerel
+eggplant
+eggs
+farfalle pasta
+fennel seed
+fishcake
+fusilli pasta
+galangal
+garlic
+garlic_clove
+ginger
+green pepper
+jackfruit
+kimchi
+kiwi
+leek
+lemon
+lemongrass
+lettuce
+lime leaves
+mackerel
+mango
+meat
+mint leaves
+mushroom
+napa cabbage
+okra
+olive
+olive oil
+onion
+orange
+pak choi
+paprika
+parsley
+peeled shrimp
+penne pasta
+perilla leave
+pork
+potato
+pumpkin
+radish
+rice
+rigatoni pasta
+rosemary
+shallots
+shrimp
+soy beans
+spaghetti
+spinach
+spiny gourd
+squash
+squid
+star anise
+strawberry
+sweet potato
+tofu
+tomato
+turmeric
+water spinach
+watermelon
+yogurt
+zucchini
