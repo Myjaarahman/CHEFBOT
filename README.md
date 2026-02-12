@@ -26,12 +26,6 @@ recipes using Google APIs.
 - Personalized homepage
 - Search bar
 
-## 📱 Screenshots
-![Homepage](screenshots/personalized homepage.jpeg)
-![SearchBar](screenshots/search feature.jpeg)
-![Detection](screenshots/scanned ingredients.jpeg)
-![Recommendation](screenshots/recipes suggestion.jpeg)
-
 ## 🚀 How to Run
 1. Clone this repository
 2. Install Flutter dependencies
